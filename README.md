@@ -68,7 +68,7 @@
   <a href="https://www.facebook.com/nguyen.thuanphat.33" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thuanphat-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/nguyen-thuan-phat-9a478021b" target="blank">
+  <a href="https://www.linkedin.com/in/thuanphat" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thuanphat-linkedin" />
   </a>
   <a href="https://www.instagram.com/thuan.phatt" target="blank">
